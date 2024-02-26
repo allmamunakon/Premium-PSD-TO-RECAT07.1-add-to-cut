@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Premium-PSD-TO-RECAT07.1-add-to-cut/static/css/main.0eca8728.css",
+    "main.js": "/Premium-PSD-TO-RECAT07.1-add-to-cut/static/js/main.93ae8f63.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Premium-PSD-TO-RECAT07.1-add-to-cut/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.png": "/Premium-PSD-TO-RECAT07.1-add-to-cut/static/media/logo.0dd9a5104bbc1da3e6ae.png",
+    "static/media/logo.svg": "/Premium-PSD-TO-RECAT07.1-add-to-cut/static/media/logo.8d26dceb8583079ed6ec90b2d75cedca.svg",
+    "index.html": "/Premium-PSD-TO-RECAT07.1-add-to-cut/index.html",
+    "main.0eca8728.css.map": "/Premium-PSD-TO-RECAT07.1-add-to-cut/static/css/main.0eca8728.css.map",
+    "main.93ae8f63.js.map": "/Premium-PSD-TO-RECAT07.1-add-to-cut/static/js/main.93ae8f63.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Premium-PSD-TO-RECAT07.1-add-to-cut/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eca8728.css",
+    "static/js/main.93ae8f63.js"
+  ]
+}
